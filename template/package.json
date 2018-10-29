@@ -1,11 +1,11 @@
 {
-  "name": "antd-test",
-  "description": "A Vue.js project",
+  "name": "{{ name }}",
   "version": "1.0.0",
-  "author": "吴茂芳 <maofang.wu@lianshang.com>",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
   "license": "MIT",
   "private": false,
-  "main": "dist/sumFunction.js",
+  "main": "dist/{{ name }}.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
