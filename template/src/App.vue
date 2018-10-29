@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import myComponent from '../src/components/index.js'; // 引入
+import myComponent from '../src/components/my-component'; // 引入
 export default {
   name: 'app',
   data () {

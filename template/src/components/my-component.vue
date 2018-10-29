@@ -1,6 +1,6 @@
 <template>
   <div class="calculate">
-    <a-button>text</a-button>
+    <a-button>test</a-button>
   </div>
 </template>
 <script>
